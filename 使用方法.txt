@@ -1,0 +1,6 @@
+运行test.py就行，拖动图片进程序（不能有中文路径）
+
+注意
+1、电脑必须有python环境
+2、需要安装numpy、PyQt5、opencv-python等依赖项，缺什么就按报错提示用pip安装即可
+3、参考资料在test.py的开头
